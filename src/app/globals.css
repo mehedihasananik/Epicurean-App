@@ -34,12 +34,12 @@
     width: 100%;
   }
   .WhyChooseUs {
-    background-image: url("/images/whyUs.png");
+    background-image: url("/images/Screenshot_1.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     z-index: -1;
-    height: 600px;
+    height: 674px;
     width: 100%;
   }
   .whyUs_title {
