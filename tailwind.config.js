@@ -22,6 +22,7 @@ module.exports = {
         Abril: ["Abril", "sans-serif"],
         Bakilda: ["Bakilda", "sans-serif"],
         ValueSans: ["ValueSans", "sans-serif"],
+        lemonada: ['var(--font-lemonada)'],
       }
     },
   },

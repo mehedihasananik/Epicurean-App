@@ -1,7 +1,13 @@
 import { Inter } from "next/font/google";
+import { Lemonada } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+
+const lemonada = Lemonada({
+  subsets: ['latin'],
+  variable: '--font-lemonada',
+})
 
 export const metadata = {
   title: "Create Next App",

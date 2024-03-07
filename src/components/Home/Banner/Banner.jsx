@@ -3,7 +3,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="hero-section">
+    <div className="hero-section overflow-hidden">
       {/* hero-section started */}
       <div className="flex flex-col lg:flex-row pt-20 px-4">
         {/* left side */}
